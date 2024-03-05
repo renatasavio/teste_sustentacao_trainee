@@ -1,22 +1,33 @@
 Teste para Sustentação Trainee
 
 Instruções:
-O desafio consiste em elaborar um formulário de cadastro de funcionário que exiba os dados cadastrados.
+O desafio consiste em elaborar um formulário de um funcionário, utilizando HTML, CSS e Javascript.
 
-Tecnologias a serem utilizadas:
-HTML
-CSS
-Javascript
+O formulário em html deverá possuir os seguintes campos:
+· Nome
+· Sobrenome
+· E-mail
+· Telefone
+· Data de Nascimento
+· Campo para falar sobre os objetivos
+O CSS da página, deverá organizar os itens de forma que fiquem bem divididos, mudar a cor de fundo do formulário, ajustar o tamanho do formulário e inserir espaçamentos de forma que fiquem separados os títulos dos campos.
+O Javascript por sua vez, deverá exibir uma mensagem ao enviar o formulário, contendo o nome inserido no formulário.
+
+Diferenciais:
+· Centralizar o formulário na página
+· Validar o preenchimento dos campos com o Javascript
 
 Entrega:
-Para iniciar o teste, faça um fork deste repositório; Se você apenas clonar o repositório não vai conseguir fazer push.
+Para iniciar o teste, crie um novo repositório público em sua conta github; 
+Realize o clone do seu repositório local;
 Crie uma branch com o seu nome completo;
-Altere o arquivo README.md com as informações necessárias para executar o seu teste;
-Depois de finalizado, envie-nos o pull request;
+Crie um arquivo README.md com as informações necessárias para executar o seu teste;
+Depois de finalizado, envie o pull request e nos envie o link;
 
 O que iremos analisar:
-Organização do código;
-Legibilidade;
+Estrutura básica do código;
+Indentação do código;
+Organização e Legibilidade do código;
 Raciocínio Lógico;
 
 Boa sorte!
