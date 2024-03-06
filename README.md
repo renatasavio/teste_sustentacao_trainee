@@ -19,7 +19,7 @@ Diferenciais:
 - Validar o preenchimento dos campos com o Javascript
 
 Entrega:
-Para iniciar o teste, crie um novo repositório público em sua conta github; 
+Para iniciar o teste, crie um novo repositório público em sua conta github;
 Realize o clone do seu repositório local;
 Crie uma branch com o seu nome completo;
 Crie um arquivo README.md com as informações necessárias para executar o seu teste;
